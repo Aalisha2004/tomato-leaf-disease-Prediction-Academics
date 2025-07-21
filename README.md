@@ -54,6 +54,8 @@ Develop a deep learning-based image classification model to automatically detect
 ### 🖼️ Sample Output
 
 Prediction output includes:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9cda4691-5b1c-4ea8-b890-4152807a21f8" />
+
 
 * Predicted disease class
 * Model confidence score
